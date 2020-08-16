@@ -31,11 +31,10 @@ function App(props) {
           )):
           <div className='zero'>
             <h2>No products selected</h2>
-<<<<<<< HEAD
-            <img src={dead}/>
-=======
+
+         
             <img src={dead} alt={dead}/>
->>>>>>> interactive
+
           </div>
           }
           
