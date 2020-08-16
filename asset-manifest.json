@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/the-north-cow/static/css/main.c83b0b58.chunk.css",
+    "main.js": "/the-north-cow/static/js/main.6258c6e1.chunk.js",
+    "main.js.map": "/the-north-cow/static/js/main.6258c6e1.chunk.js.map",
+    "runtime-main.js": "/the-north-cow/static/js/runtime-main.89362904.js",
+    "runtime-main.js.map": "/the-north-cow/static/js/runtime-main.89362904.js.map",
+    "static/js/2.08073e18.chunk.js": "/the-north-cow/static/js/2.08073e18.chunk.js",
+    "static/js/2.08073e18.chunk.js.map": "/the-north-cow/static/js/2.08073e18.chunk.js.map",
+    "index.html": "/the-north-cow/index.html",
+    "precache-manifest.d2f3aacc029635b46500be1752a07fc6.js": "/the-north-cow/precache-manifest.d2f3aacc029635b46500be1752a07fc6.js",
+    "service-worker.js": "/the-north-cow/service-worker.js",
+    "static/css/main.c83b0b58.chunk.css.map": "/the-north-cow/static/css/main.c83b0b58.chunk.css.map",
+    "static/js/2.08073e18.chunk.js.LICENSE.txt": "/the-north-cow/static/js/2.08073e18.chunk.js.LICENSE.txt",
+    "static/media/carrito-de-compras.png": "/the-north-cow/static/media/carrito-de-compras.17b55751.png",
+    "static/media/dead.png": "/the-north-cow/static/media/dead.976fe1be.png",
+    "static/media/logo.png": "/the-north-cow/static/media/logo.afa8da7c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89362904.js",
+    "static/js/2.08073e18.chunk.js",
+    "static/css/main.c83b0b58.chunk.css",
+    "static/js/main.6258c6e1.chunk.js"
+  ]
+}
