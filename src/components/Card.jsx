@@ -104,14 +104,13 @@ function handleChange(){console.log(ref.current.checked)
   let ids=`description`+id
 
 if(ref.current.checked){
-  document.getElementById(ids).classList .remove('description-off')
-  document.getElementById(ids).classList .add('description-on')
+document.getElementById(ids).classList .remove('description-off')
+document.getElementById(ids).classList .add('description-on')
  
   
 }else{
-
-  document.getElementById(ids).classList .remove('description-on')
-  document.getElementById(ids).classList .add('description-off')
+document.getElementById(ids).classList .remove('description-on')
+document.getElementById(ids).classList .add('description-off')
   
 
 }
